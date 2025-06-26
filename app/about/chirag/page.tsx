@@ -14,7 +14,7 @@ const chirag = {
             url: "https://linkedin.com/in/chirag-dave-751a91249",
             label: "LinkedIn",
         },
-        { icon: <GlobeIcon className="w-5 h-5" />, url: "https://chirxg.is-a.dev", label: "Website" },
+        { icon: <GlobeIcon className="w-5 h-5" />, url: "https://chirag.ngmi.club", label: "Website" },
     ],
 };
 

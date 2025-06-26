@@ -14,7 +14,7 @@ const ishan = {
             url: "https://linkedin.com/in/ishan-patra-407a74257",
             label: "LinkedIn",
         },
-        { icon: <GlobeIcon className="w-5 h-5" />, url: "https://ishanpatra.com", label: "Website" },
+        { icon: <GlobeIcon className="w-5 h-5" />, url: "https://ishan.ngmi.club", label: "Website" },
     ],
 };
 
